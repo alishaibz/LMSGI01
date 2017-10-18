@@ -19,18 +19,18 @@ Aquesta primera tasca de l'assignatura **_Llenguatge de Marques i Sistemes de Ge
     * Comprovar que el text desat es veu amb el format corresponent amb el codi RTF que conté el document.
 
 2. Creació de document XML:
-  * Obrir bloc de notes.
-  * Copiar el codi XML d'exemple 1 del tutorial XML de la web [w3schools](www.w3schools.com/xml/).
-  * Desar el document amb extensió .xml i tancar-ho.
-  * Obrir el document XML amb el Word.
-  * Comprovar que el text desat es veu amb el format corresponent amb el codi XML que conté el document.
+    * Obrir bloc de notes.
+    * Copiar el codi XML d'exemple 1 del tutorial XML de la web [w3schools](www.w3schools.com/xml/).
+    * Desar el document amb extensió .xml i tancar-ho.
+    * Obrir el document XML amb el Word.
+    * Comprovar que el text desat es veu amb el format corresponent amb el codi XML que conté el document.
 
 3. Creació de document HTML:
-  * Obrir bloc de notes.
-  * Copiar el codi HTML d'exemple 1 del tutorial HTML de la web [w3schools](www.w3schools.com/html/).
-  * Desar el document amb extensió .html i tancar-ho.
-  * Obrir el document HTML amb el navegador Google Chrome.
-  * Comprovar que el text desat es veu amb el format corresponent amb el codi HTML que conté el document.
+    * Obrir bloc de notes.
+    * Copiar el codi HTML d'exemple 1 del tutorial HTML de la web [w3schools](www.w3schools.com/html/).
+    * Desar el document amb extensió .html i tancar-ho.
+    * Obrir el document HTML amb el navegador Google Chrome.
+    * Comprovar que el text desat es veu amb el format corresponent amb el codi HTML que conté el document.
 
 #### Activitat B
 
