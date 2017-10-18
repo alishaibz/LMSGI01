@@ -10,27 +10,27 @@ Aquesta primera tasca de l'assignatura **_Llenguatge de Marques i Sistemes de Ge
 #### Activitat A
 
 1. Creació de document RTF:
- * Obrir bloc de notes.
- * Copiar el codi RTF d'exemple dels apunts de l'assignatura:
- >{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+  * Obrir bloc de notes.
+  * Copiar el codi RTF d'exemple dels apunts de l'assignatura:
+   >{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
 \viewkind4\uc1\pard\sa200\sl276\slmult1\lang10\f0\fs22 soy \i cursiva\i0\par}
- * Desar el document amb extensió .rtf i tancar-ho.
- * Obrir el document RTF amb el Word.
- * Comprovar que el text desat es veu amb el format corresponent amb el codi RTF que conté el document.
+  * Desar el document amb extensió .rtf i tancar-ho.
+  * Obrir el document RTF amb el Word.
+  * Comprovar que el text desat es veu amb el format corresponent amb el codi RTF que conté el document.
 
 2. Creació de document XML:
- * Obrir bloc de notes.
- * Copiar el codi XML d'exemple 1 del tutorial XML de la web [w3schools](www.w3schools.com/xml/).
- * Desar el document amb extensió .xml i tancar-ho.
- * Obrir el document XML amb el Word.
- * Comprovar que el text desat es veu amb el format corresponent amb el codi XML que conté el document.
+  * Obrir bloc de notes.
+  * Copiar el codi XML d'exemple 1 del tutorial XML de la web [w3schools](www.w3schools.com/xml/).
+  * Desar el document amb extensió .xml i tancar-ho.
+  * Obrir el document XML amb el Word.
+  * Comprovar que el text desat es veu amb el format corresponent amb el codi XML que conté el document.
 
 3. Creació de document HTML:
- * Obrir bloc de notes.
- * Copiar el codi HTML d'exemple 1 del tutorial HTML de la web [w3schools](www.w3schools.com/html/).
- * Desar el document amb extensió .html i tancar-ho.
- * Obrir el document HTML amb el navegador Google Chrome.
- * Comprovar que el text desat es veu amb el format corresponent amb el codi HTML que conté el document.
+  * Obrir bloc de notes.
+  * Copiar el codi HTML d'exemple 1 del tutorial HTML de la web [w3schools](www.w3schools.com/html/).
+  * Desar el document amb extensió .html i tancar-ho.
+  * Obrir el document HTML amb el navegador Google Chrome.
+  * Comprovar que el text desat es veu amb el format corresponent amb el codi HTML que conté el document.
 
 #### Activitat B
 
