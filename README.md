@@ -1,5 +1,8 @@
 # LMSGI01
+
 ## Tasca LMSGI01
+
+### Autora: Alicia Victoria López González
 
 Aquesta primera tasca de l'assignatura **_Llenguatge de Marques i Sistemes de Gestió de la Informació_** consta de cinc activitats, la realització de les quals s'explica a continuació.
 
@@ -33,14 +36,14 @@ Aquesta primera tasca de l'assignatura **_Llenguatge de Marques i Sistemes de Ge
 
 1. Registre a [Github](https://github.com).
 2. Lectura i seguiment de la [guia d'inici de Github](https://guides.github.com/activities/hello-world/).
-3. Lectura del [manual de Markdown](www.markdowntutorial.com).
-4. Creació d'un nou repositori a Github per la realització d'aquesta tasca, LMSGI01, a través del botó _New repository_.
-5. Pujada dels tres documents (.rtf, .xml i .html) creats en l'anterior activitat al nou repositori (LMSGI01), seleccionant el botó _Upload Files_.
+3. Lectura del [manual de Markdown](https://www.markdowntutorial.com/).
+4. Creació d'un nou repositori a Github per la realització d'aquesta tasca, **LMSGI01**, a través del botó _New repository_.
+5. Pujada dels tres documents (.rtf, .xml i .html) creats en l'anterior activitat al nou repositori (**LMSGI01**), seleccionant el botó _Upload Files_.
 
 
 #### Activitat C
 
-1. Obertura del document .html en el repositori LMSGI01, fent click damunt d'ell.
+1. Obertura del document .html en el repositori **LMSGI01**, fent click damunt d'ell.
 2. Còpia de la [URL del document HTML](https://github.com/alishaibz/LMSGI01/blob/master/tasca_html.html).
 3. Obertura de la web de [RawGit](https://rawgit.com/).
 4. Introducció de la URL del document HTML al requadre on posa _"Paste a GitHub file or gist URL here"_.
@@ -51,9 +54,11 @@ Aquesta primera tasca de l'assignatura **_Llenguatge de Marques i Sistemes de Ge
 
 
 #### Activitat D
- En aquesta activitat s'ha redactat el present document.
- 
+
+ 1. Obertura del fitxer README.me del repositori **LMSGI01**.
+ 2. Edició del fitxer README.me.
+ 3. Desament dels canvis realitzats al fitxer.
  
 #### Activitat E
- Aquesta activitat ha consistit en fer entrega de la tasca LMSGI01, enviant l'enllaç del repositori corresponent.
+ Aquesta activitat ha consistit en fer entrega de la tasca LMSGI01, enviant l'enllaç del repositori corresponent, [**LMSGI01**](https://github.com/alishaibz/LMSGI01).
  
